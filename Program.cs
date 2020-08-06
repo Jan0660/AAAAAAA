@@ -420,6 +420,7 @@ namespace AAAAAAA
             Console.Read();
         }
 
+        // im not foing to be writing those 400 lines of shit myself
         static void yeet(string ch)
         {
             Console.WriteLine("add_" + ch + ":;");
